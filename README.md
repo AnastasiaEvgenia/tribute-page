@@ -8,7 +8,7 @@ it responsive.
 ## Running the app
 
 To run this up, download files localy and open index.html in your browser.
-Alternatively, click (here)[ https://anastasiaevgenia.github.io/tribute-page/ ] to
+Alternatively, click [here]( https://anastasiaevgenia.github.io/tribute-page/ ) to
 see app on github pages.
 
 
